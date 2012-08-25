@@ -3,7 +3,7 @@
 *
 {
     contentAlignY: middle;
-    
+
     #new test
     {
         isA: UIButton;

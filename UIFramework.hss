@@ -36,7 +36,7 @@
     textAlign: center;
     contentAlignY: 50% + 1;
     on: @mouseDown { flag(pressed) }, @mouseUp { unflag(pressed) };
-    
+
     @::hover
     {
         background: UIButtonHoverBaseColor, glossGradientStrong;
